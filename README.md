@@ -1,1 +1,1 @@
-# apresent-o
+Este é um projeto básico em HTML que consiste em uma página principal com três links, cada um contendo o nome de uma pessoa. Quando clicado, cada link abre uma página com uma breve apresentação sobre a pessoa selecionada.
